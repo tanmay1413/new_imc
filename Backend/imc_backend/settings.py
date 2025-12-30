@@ -35,7 +35,7 @@ SECRET_KEY = 'django-insecure-enn@a0!v4mho+wm@l@r9=(_^jy(2n+^7#49a4l!2g+%=p+-zv7
 DEBUG = True
 
 # Add allowed hosts
-ALLOWED_HOSTS = ['imcpune.in', 'api.imcpune.in', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['*','imcpune.in', 'api.imcpune.in', 'localhost', '127.0.0.1']
 
 
 
